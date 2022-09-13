@@ -1,10 +1,10 @@
 # Is your birthday a palindrome?
  
-#About
+# About
 
 A web app build with HTML, CSS and Javascript, in which you can find that the birthday is Palindrome or not. 
 
-#Tools & Technology
+# Tools & Technology
 
 HTML,
 CSS,
