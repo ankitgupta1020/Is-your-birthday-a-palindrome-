@@ -1,53 +1,58 @@
 @import url('https://fonts.googleapis.com/css2?family=DynaPuff&family=Montserrat:wght@400;700&family=Noto+Sans:wght@200&family=Source+Sans+Pro:wght@200&family=Square+Peg&display=swap');
+
 body {
     font-family: 'DynaPuff', cursive;
     background-color: #b8ebbc;
-  }
+}
 
 h1 {
     width: 50vw;
     height: 12vh;
-    /* background-color: aqua; */
     text-align: center;
     margin-left: auto;
     margin-right: auto;
     border-radius: 1rem;
     padding-top: 3rem;
-  }
-  
-  .input-1 {
+}
+
+.input-1 {
     margin-top: 10vh;
-    /* color: aqua; */
-  }
-  label, input {
+}
+
+label,
+input {
     display: block;
-    
+
     margin-left: auto;
     margin-right: auto;
     text-align: center;
-  }
-  #bday-input {
+}
+
+#bday-input {
     margin-top: 3vh;
-   
+
     width: 15vw;
     height: 6vh;
-    
+
     border-style: solid;
     border-radius: 0.5rem;
-    
-  } 
-  .btn {
+
+}
+
+.btn {
     text-align: center;
     margin-top: 10vh;
-  }
-  #show-btn {
+}
+
+#show-btn {
     width: 10vw;
-    height:7vh;
+    height: 7vh;
     margin: auto;
     border-radius: 0.7rem;
-    
-  }
-  #output{
+
+}
+
+#output {
     margin-top: 8vh;
     text-align: center;
-  }
+}
