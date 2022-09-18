@@ -1,6 +1,7 @@
 # Is your birthday a palindrome?
  
 <<<<<<< HEAD
+<<<<<<< HEAD
 # About
 
 A web app build with HTML, CSS and Javascript, in which you can find that the birthday is Palindrome or not.
@@ -10,10 +11,13 @@ A web app build with HTML, CSS and Javascript, in which you can find that the bi
 HTML, CSS, Javascript
 =======
 #About
+=======
+# About
+>>>>>>> 3682d48864e3d57c19eb4d44dc3be80cf6ef2295
 
 A web app build with HTML, CSS and Javascript, in which you can find that the birthday is Palindrome or not. 
 
-#Tools & Technology
+# Tools & Technology
 
 HTML,
 CSS,
