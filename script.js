@@ -155,13 +155,3 @@ function clickHandler(e) {
 }
 
 showBtn.addEventListener('click', clickHandler);
-
-
-
-
-
-
-
-
-
-
