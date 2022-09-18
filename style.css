@@ -30,9 +30,10 @@ input {
 #bday-input {
     margin-top: 3vh;
 
-    width: 15vw;
-    height: 6vh;
-
+    /* width: 15vw;
+    height: 6vh; */
+    width: 15;
+    height: auto;
     border-style: solid;
     border-radius: 0.5rem;
 
@@ -49,10 +50,12 @@ input {
     margin: auto;
     border-radius: 0.7rem;
 }
+
 #output {
     margin-top: 8vh;
     text-align: center;
 }
+
 @media only screen and (max-width: 700px) {
 
     h1 {
@@ -63,36 +66,40 @@ input {
         margin-right: auto;
         padding-top: 3rem;
     }
+
     .input-1 {
         margin-top: 10vh;
     }
+
     label,
-input {
-    display: block;
+    input {
+        display: block;
 
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center;
-}
-#bday-input {
-    margin-top: 3vh;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+    }
 
-    width: auto;
-    height: auto;
+    #bday-input {
+        margin-top: 3vh;
 
-    border-style: solid;
-    border-radius: 0.5rem;
+        width: auto;
+        height: auto;
 
-}
-.btn {
-    text-align: center;
-    margin-top: 5vh;
-}
+        border-style: solid;
+        border-radius: 0.5rem;
 
-#show-btn {
-    width: 20vw;
-    height: 5vh;
-    margin: auto;
-    border-radius: 0.7rem;
-}
+    }
+
+    .btn {
+        text-align: center;
+        margin-top: 5vh;
+    }
+
+    #show-btn {
+        width: 20vw;
+        height: 5vh;
+        margin: auto;
+        border-radius: 0.7rem;
+    }
 }
